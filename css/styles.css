@@ -1,0 +1,24 @@
+body {
+    background-color: #73683B;
+}
+.column img {
+    width: 100%;
+    border-radius: 8px;
+}
+.column {
+    width: 300px;
+    float: left;
+    background-color: #9BC1BC;
+    margin: 10px;
+    padding: 13px;
+    border-radius: 8px;
+}
+h1 {
+    text-align: center;
+    color: white;
+    background-color:#959556;
+    margin: 0 40%;
+    border: 4px solid black;
+h2{
+    text-align: center;
+}
